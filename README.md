@@ -1,19 +1,16 @@
-# Diabetes Risk Factor Analysis
+# Heart Disease Logistic Regression Analysis
 
-## Objective
-To analyse diabetes-related clinical variables and identify factors associated with diabetes outcomes using statistical methods.
+## Overview
+This project explores heart disease risk factors using logistic regression in R.
 
-## Skills Demonstrated
-- Data cleaning
-- Duplicate Checks  
-- Missing value assessment
-- Logistic regression
-- Data visualisation
+## Steps
+- Data cleaning and duplicate removal
+- Exploratory data analysis
+- Visualisation of age and sex distribution
+- Logistic regression modelling
 
-## Tools Used
-- R
-- tidyverse
-- ggplot2
+## Key Finding
+Age showed a negative association with heart disease in this dataset, suggesting possible sampling or cohort bias.
 
-## Key Findings
-Age, BMI and glucose levels showed positive association with diabetes outcomes.
+## Tools
+R, dplyr, ggplot2
